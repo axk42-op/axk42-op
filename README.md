@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Ayaan
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Backend+Engineer;Automation+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Your Project
-- 🌱 Learning: AI / Cloud / System Design
+- 🔭 Currently working on: https://wordflow.co.in
+- 🌱 Learning: Python / Cloud / System Design
 - 👯 Open to collaborating on open-source projects
 - ⚡ Fun fact: Add something interesting here
 
