@@ -2,19 +2,7 @@
 
 # Hi <span id="hand"> 👋</span>, I'm Ayaan
 
-
-const hand = document.getElementById("hand");
-
-let angle = -20;
-
-setInterval(() => {
-  angle = angle === -20 ? 20 : -20;
-  hand.style.transform = `rotate(${angle}deg)`;
-}, 300);
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Backend+Engineer;Automation+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-
-</div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ---
 
