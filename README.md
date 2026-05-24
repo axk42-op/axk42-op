@@ -10,8 +10,8 @@
 
 - 🔭 Currently working on: https://wordflow.co.in
 - 🌱 Learning: Python / Cloud / System Design
-- 👯 Open to collaborating on open-source projects
-- ⚡ Fun fact: Add something interesting here
+- 👯 Open to collaborating on open-source project
+
 
 ---
 
@@ -29,9 +29,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axk42-op&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -41,7 +39,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=axk42-&theme=tokyonight)
 
 </div>
 
@@ -52,11 +50,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-## Advanced GitHub README Section
-```md
-## About Me
-
-- 🔭 Currently working on: Your Project
-- 🌱 Learning: AI / Cloud / System Design
-- 👯 Open to collaborating on open-source projects
-- ⚡ Fun fact: Replace this with something interesting
