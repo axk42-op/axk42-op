@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axk42-op&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username="axk42-op"&show_icons=true&theme=tokyonight)
 
 </div>
 
