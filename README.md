@@ -1,63 +1,157 @@
 <div align="center">
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ayaan
+# Hey there 👋 I'm Ayaan
+
+### Full-Stack Developer • Builder • Open Source Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+WordFlow;Python+%7C+Cloud+%7C+System+Design;Full-Stack+Developer+from+India;Always+Learning+New+Things" />
+
+<br><br>
+
+<a href="https://wordflow.co.in">
+  <img src="https://img.shields.io/badge/🚀%20Current%20Project-WordFlow-blue?style=for-the-badge" />
+</a>
+
+<a href="mailto:ayaanglobals@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/axk42-op?tab=followers">
+  <img src="https://img.shields.io/github/followers/axk42-op?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🔭 Currently working on: https://wordflow.co.in
-- 🌱 Learning: Python / Cloud / System Design
-- 👯 Open to collaborating on open-source projects
+```yaml
+Name: Ayaan
+Username: axk42-op
+Role: Full-Stack Developer
+Current Project: WordFlow
+Learning:
+  - Python
+  - Cloud Computing
+  - System Design
+Interests:
+  - SaaS Products
+  - Automation Tools
+  - Open Source
+```
+
+- 🔭 Currently building **WordFlow**
+- 🌱 Learning **Python, Cloud, and System Design**
+- 👯 Open to collaborating on **open-source projects**
+- 💡 Interested in **building SaaS tools & automation products**
+- ⚡ Fun fact: I love turning ideas into products
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" />
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<div align="center">
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=axk42-op&theme=tokyonight)
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-[![Discord Server 1](https://img.shields.io/badge/Discord%20Server%201-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j29mhfEAZ)
+<div align="center">
 
-[![Discord Server 2](https://img.shields.io/badge/Discord%20Server%202-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hr7Ce9pqY)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=axk42-op&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=axk42-op&theme=tokyonight&hide_border=true" />
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/NaturalDesperate946)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axk42-op&layout=compact&theme=tokyonight&hide_border=true" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanglobals@gmail.com)
+</div>
 
 ---
 
-## 👀 Profile Views
+# 🚀 Current Focus
 
-![](https://komarev.com/ghpvc/?username=axk42-op&color=blueviolet&style=for-the-badge)
+```text
+Building scalable web applications
+Learning backend architecture
+Improving cloud deployment knowledge
+Exploring automation & Python tooling
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://discord.gg/j29mhfEAZ">
+  <img src="https://img.shields.io/badge/Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/hr7Ce9pqY">
+  <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://reddit.com/user/NaturalDesperate946">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
+<a href="mailto:ayaanglobals@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=axk42-op&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"Code. Build. Learn. Repeat."*
 
 </div>
