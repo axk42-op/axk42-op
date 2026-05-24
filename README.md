@@ -80,13 +80,10 @@ Interests:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=axk42-op&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=axk42-op&theme=tokyonight&hide_border=true" />
 
 <br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axk42-op&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
