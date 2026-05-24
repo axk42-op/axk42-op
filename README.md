@@ -22,11 +22,11 @@
 
 ---
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axk42%2Dop&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axk42-op&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axk42%2Dop&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axk42-op&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=axk42%2Dop&theme=tokyonight)
 
 ---
 
