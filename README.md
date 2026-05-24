@@ -2,16 +2,13 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ayaan
 
-
-
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently working on: https://wordflow.co.in
 - 🌱 Learning: Python / Cloud / System Design
-- 👯 Open to collaborating on open-source project
-
+- 👯 Open to collaborating on open-source projects
 
 ---
 
@@ -27,26 +24,28 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axk42-op&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username="axk42-op"&show_icons=true&theme=tokyonight)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axk42-op&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=axk42-&theme=tokyonight)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=axk42-op&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=axk42-op&color=blueviolet&style=for-the-badge)
+
+</div>
