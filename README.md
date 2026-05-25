@@ -31,7 +31,7 @@ Name: Ayaan
 Username: axk42-op
 Role: Full-Stack Developer
 Focus: Building useful web products
-Current Project: WordFlow
+Current Project: WordFlow(wordflow.co.in),Cofounding MunaafaCalc(munaafacalc.com)
 Learning:
   - Python
   - Cloud Computing
