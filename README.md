@@ -8,17 +8,6 @@
 
 <br><br>
 
-<a href="https://wordflow.co.in">
-  <img src="https://img.shields.io/badge/🚀%20Current%20Project-WordFlow-0f172a?style=for-the-badge" />
-</a>
-
-<a href="mailto:ayaanglobals@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-Email-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/axk42-op?tab=followers">
-  <img src="https://img.shields.io/github/followers/axk42-op?style=for-the-badge&logo=github&color=181717" />
-</a>
 
 </div>
 
@@ -42,8 +31,8 @@ Interests:
   - Open Source
 ```
 
-- 🔭 Currently building **WordFlow**
-- 🌱 Learning **Python, Cloud & scalable systems**
+- 🔭 Currently building **<a href=https://wordflow.co.in>WordFlow**</a>
+- 🌱 Learning **Rust,C#,C++,C**
 - 🚀 Passionate about building useful products
 - 🤝 Open to collaborating on **open-source & cool projects**
 - ⚡ Love shipping ideas into reality
@@ -103,35 +92,6 @@ System design fundamentals
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=axk42-op&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=axk42-op&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
@@ -158,16 +118,6 @@ System design fundamentals
 <a href="mailto:ayaanglobals@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=axk42-op&style=for-the-badge&color=38bdf8" />
 
 </div>
 
