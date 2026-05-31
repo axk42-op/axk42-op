@@ -31,7 +31,7 @@ Interests:
   - Open Source
 ```
 
-- 🔭 Currently building **<a href=https://wordflow.co.in>WordFlow**</a>
+- 🔭 Currently building **ColorSnap**
 - 🌱 Learning **Rust,C#,C++,C**
 - 🚀 Passionate about building useful products
 - 🤝 Open to collaborating on **open-source & cool projects**
