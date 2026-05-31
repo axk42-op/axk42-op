@@ -20,8 +20,8 @@ Name: Ayaan
 Username: axk42-op
 Role: Full-Stack Developer
 Focus: Building useful web products
-Current Project: WordFlow(wordflow.co.in),Cofounding MunaafaCalc(munaafacalc.com)
-Learning:
+Current Project: ColorSnap
+Learning
   - Python
   - Cloud Computing
   - System Design
@@ -98,6 +98,10 @@ System design fundamentals
 # 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://discord.gg/j29mhfEAZ](https://discord.gg/vTKuAczu">
+  <img src="https://img.shields.io/badge/Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 <a href="https://discord.gg/j29mhfEAZ">
   <img src="https://img.shields.io/badge/Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
