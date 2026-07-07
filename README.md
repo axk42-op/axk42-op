@@ -31,7 +31,7 @@ Interests:
   - Open Source
 ```
 
-- 🔭 Currently building **ColorSnap**
+- 🔭 Currently building **ColorSnapUI,Ropblo,Mediakit,Szcyutsi chess**
 - 🌱 Learning **Rust,C#,C++,C**
 - 🚀 Passionate about building useful products
 - 🤝 Open to collaborating on **open-source & cool projects**
